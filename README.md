@@ -27,24 +27,6 @@ g++ main.cpp -o app
 * Run using:
 ./app
 
-## Sample Output
-
-==== MENU ====
-
-PIZZA - 200
-BURGER - 100
-PASTA - 150
-SANDWICH - 100
-EXIT
-
-Enter your choice: 1
-Enter quantity: 2
-
-===== BILL =====
-Pizza x 2
-GST (18%): 72
-Total Bill: 472
-
 ## Upcoming Updates
 
 * Refactor code using functions for better modularity
